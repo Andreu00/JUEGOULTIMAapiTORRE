@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adivina La Pareja</string>
+    <string name="button_text">Jugar</string>
+    <string name="instructions_button_text">Instrucciones</string>
+    <string name="encuentra_la_pareja">Encuentra la pareja</string>
+    <string name="iconos_carta">Iconos de la carta</string>
+    <string name="boton_volver">Volver</string>
+    <string name="explicacion_juego">El juego consta de 5 cartas, las cuales cada una tiene su pareja. Pulsando encima de ellas deberá adivinar cuales son.\nMucha Suerte!!!</string>
+    <string name="boton_reiniciar">Reiniciar</string>
+    <string name="boton_salir">Salir</string>
+</resources>
